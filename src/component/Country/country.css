@@ -1,0 +1,16 @@
+.box{
+    border: 1px solid lightgreen;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+figure{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.visited{
+    background-color: bisque;
+    color: #242424;
+}
